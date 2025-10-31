@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-_**Short introduction**_ - this group has been founded in 2025 from Laura Nenzi, professor at the University of Trieste, and Simone Silvetti postdoc at the same university. 
+_**Short introduction**_ - this group has been founded in 2025 from [Laura Nenzi](https://lauranenzi.github.io/), professor at the University of Trieste, and [Simone Silvetti](https://simonesilvetti.github.io/) postdoc at the same university. 
 It collects all the scientific artifacts produced during their scientific collaboration started in 2017 when Laura was a postdoc and Simone a phd student. 
-The acronym _LogArlLab_ stends for LOGic and ARTificial intelligence LABoratory. \\
+The acronym _LogArlLab_ stends for LOGic and ARTificial intelligence LABoratory.
 
-_**For students**_ - If you are a student take a look to this page where you can find al the possible ways to collaborate with us which include: make a thesis, be a phd student or write papers. Take a look to the last publications of Laura and Simone to have an idea of possible topics. 
+_**For students**_ - If you are a student take a look to this page where you can find al the possible ways to collaborate with us which include: make a thesis, be a phd student or write papers. Take a look to the last publications of [Laura](https://scholar.google.com/citations?user=3xNQYkkAAAAJ&hl=en) and [Simone](https://scholar.google.com/citations?user=q_ax9IUAAAAJ&hl=en) to have an idea of possible topics. 
 
 
 <!--
