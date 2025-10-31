@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-_**Short introduction**_ - this group has been founded in 2025 from [Laura Nenzi](https://lauranenzi.github.io/), professor at the University of Trieste, and [Simone Silvetti](https://simonesilvetti.github.io/) postdoc at the same university. 
-It collects all the scientific artifacts produced during their scientific collaboration started in 2017 when Laura was a postdoc and Simone a phd student. 
-The acronym _LogArlLab_ stends for LOGic and ARTificial intelligence LABoratory.
+**_Short introduction_** – This group was founded in 2025 by [Laura Nenzi](https://lauranenzi.github.io/), Professor at the University of Trieste, and [Simone Silvetti](https://simonesilvetti.github.io/), Postdoctoral Researcher at the same university. It brings together all the scientific work produced during their collaboration, which began in 2017 when Laura was a postdoc and Simone was a PhD student. The acronym _LogArlLab_ stands for **LOGic and ARTificial intelligence LABoratory**.
 
-_**For students**_ - If you are a student take a look to this [Google Doc](https://docs.google.com/document/d/1PG8Sq6Dvjsz82W8UXjB71hTlV-ptc8QrATcq57Bb564/edit?usp=sharing) where you can find al the possible ways to collaborate with us which include: make a thesis, be a phd student or write papers. Take a look to the last publications of [Laura](https://scholar.google.com/citations?user=3xNQYkkAAAAJ&hl=en) and [Simone](https://scholar.google.com/citations?user=q_ax9IUAAAAJ&hl=en) to have an idea of possible topics. 
-
+**_For students_** – If you are a student, take a look at this [Google Doc](https://docs.google.com/document/d/1PG8Sq6Dvjsz82W8UXjB71hTlV-ptc8QrATcq57Bb564/edit?usp=sharing), where you can find all the ways to collaborate with us, including writing a thesis, starting a PhD, or co-authoring papers. You can also check out the latest publications by [Laura](https://scholar.google.com/citations?user=3xNQYkkAAAAJ&hl=en) and [Simone](https://scholar.google.com/citations?user=q_ax9IUAAAAJ&hl=en) to get idea of possible research topics.
 
 <!--
 
